@@ -8,7 +8,7 @@ A responsive Weather Report Application built using React.js that allows users t
 
 ## 📂 GitHub Repository
 
-🔗 GitHub: https://github.com/dhivakar07/-weather-report-react
+🔗 GitHub: https://github.com/dhivakar07/-weather-report-reac
 
 ---
 
@@ -63,12 +63,6 @@ This project helped in learning:
 - Vite
 
 ---
-
-## 👨‍💻 Author
-
-Dhivakar
-
-LinkedIn: www.linkedin.com/in/dhivakar7
 
 ---
 
